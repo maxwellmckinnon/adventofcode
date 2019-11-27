@@ -1,4 +1,4 @@
-# Advent of Code 2018
-https://adventofcode.com/2018
+# Advent of Code
+https://adventofcode.com/
 
 Not to be confused with The Wreath of Kahn, Kahnukkha, and other joyous Yuletide activities
